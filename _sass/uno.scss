@@ -56,7 +56,9 @@ html {
 body {
 	font-family: "Raleway", sans-serif;
 	font-size: 1em;
-	color: #666666; }
+	color: #666666;
+	background: rgb(0,0,0);
+	background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(59,93,64,1) 82%, rgba(0,0,0,1) 100%); }
 
 ::selection {
 	background: #fae3df; }
@@ -72,7 +74,8 @@ a {
 		-o-transition: .5s;
 		-ms-transition: .5s;
 		-moz-transition: .5s;
-		-webkit-transition: .5s; }
+		-webkit-transition: .5s;
+		font-weight: bold; }
 
 h1,
 h2,

@@ -1,21 +1,21 @@
 # Site settings
-title: Thomas Zühlke
-description: 'Business Card Page'
-url: 'http://thomas.zuehlke.family'
+title: Sh0x
+description: 'Esto es una prueba'
+url: 'http://sh0x.github.io'
 baseurl: ''
-profilepic: '/images/tzuehlke.jpg'
-bkimage: '/images/bk1.jpg'
+profilepic: '/images/pic.jpeg'
+background: '/images/background.jpg'
 google_analytics: UA-XXXXXX-X
 font_awesome: 'XXXXXXXXXX.js'
 
 author:
-  name: 'Thomas Zühlke'
-  email: info@thomas-zuehlke.de
+  name: 'Antonio Sanchez'
+  email: shosredes@gmail.com
   twitter_username: thomzuehlke
 #  facebook_username: joshgerdes
-  github_username:  tzuehlke
-  linkedin_username:  thomas-zühlke-889182165
-  meetup_name: Azure-Meetup-Rostock-MV
+  github_username:  sh0x8
+  linkedin_username: sh0x
+  meetup_name: 
 
 # Build settings
 destination: _site
